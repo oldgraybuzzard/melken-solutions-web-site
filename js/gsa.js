@@ -1,4 +1,4 @@
-// fetch("https://api.gsa.gov/technology/gsa-content/v2/by-type/event?api_key=0iLIUhzO5xPSbDLaMlcPp6qpxmaiLtIMuh32pVcl")
+// fetch("https://api.gsa.gov/technology/gsa-content/v2/by-type/event?api_key=")
 // .then(response => response.json())
 // .then(data => console.log(data));
 
