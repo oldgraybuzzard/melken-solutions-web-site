@@ -1,0 +1,44 @@
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #5a5a5a;
+  }
+  .navbar {
+    margin-bottom: 20px;
+  }
+  nav ul li {
+    font-size: 18px;
+  }
+  nav a:hover {
+    background-color: #b19fd3;
+  }
+  .capability-statement {
+      margin-top: 3rem;
+  }
+
+
+
+
+
+
+
+
+
+  
+
+// Media Queries
+
+@media (min-width: 992px) {
+  .rounded-lg-3 { border-radius: .3rem; }
+}
+@media (max-width: 770px) {
+  .carousel-item { height: 32rem;}
+
+}
+
+@media (max-width: 450px) {
+  .carousel h1 { font-size: 3rem;}
+  .carousel p { font-size: 1.3rem;}
+  .carousel-item { height: 24rem;}
+}
+
